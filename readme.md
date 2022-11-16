@@ -2,7 +2,7 @@
 ## Aluno: João Rafael Vieira Arcanjo
 ## Professor: Abrantes Araújo Silva Filho
 
-Dentro deste subdiretório está disponível a minha documentação sobre como foi feito esse PSET.
+Neste subdiretório está disponível a minha documentação sobre como foi feito esse PSET.
 
 ## PSET1
 
